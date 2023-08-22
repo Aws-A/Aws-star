@@ -1,8 +1,6 @@
-### Hi there 👋
+## Hello World! 👋
 
-+# Hello World!
-
-+My name is Aws, engineer, product designer and developer:
+-# My name is Aws, engineer, product designer and developer:
 
 
 
